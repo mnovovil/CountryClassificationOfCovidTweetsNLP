@@ -7,4 +7,8 @@ Improvement from Logitic Regression (45.2% Acc), Linear SVC (48.7% Acc) & Multin
 
 Deliverables: Report, Topic Visualization Dashboard & Jupyter Notebook 
 
+Dashboard:
+![alt text](https://github.com/mnovovil/CountryClassificationOfCovidTweetsNLP/blob/main/Dashboard.png)
+
+
 
